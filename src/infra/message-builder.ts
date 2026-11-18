@@ -5,7 +5,7 @@ export class MessageBuilder {
 
 	public static escapeMarkdownV2(text: string | number): string {
 		const textStr = String(text);
-		const reservedChars = /[_*[\\\]()~`>#+-=|"{}.!\\]/g;
+		const reservedChars = /[_*[\\\]()~`>#+\-=|"{}.!\\]/g;
 		return textStr.replace(reservedChars, "\\$&");
 	}
 
