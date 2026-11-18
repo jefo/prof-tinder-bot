@@ -9,6 +9,8 @@
 
 **[Открыть case study →](https://jefo.github.io/prof-tinder-bot/)**
 
+<img src="docs/screens/prof-tinder-bot/03.png" alt="Карточка специалиста" width="360" />
+
 ---
 
 ## Что это
